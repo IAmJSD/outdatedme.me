@@ -12,8 +12,18 @@ const memes = [
     <iframe width="560" height="315" src="https://www.youtube.com/embed/gy1B3agGNxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
 ]
 
+// Ensures a fresh meme.
+function generateFreshMeme() {
+    for (;;) {
+        const i = Math.floor(Math.random() * memes.length)
+        if (localStorage.getItem("lastmeme") === i.toString()) continue
+        localStorage.setItem("lastmeme", i.toString())
+        return memes[i]
+    }
+}
+
 ReactDOM.render(<div style={{textAlign: "center"}}>
-    {memes[Math.floor(Math.random() * memes.length)]}
+    {generateFreshMeme()}
     <hr />
     <p>Website by <a href="https://jakegealer.me">Jake Gealer</a>.</p>
 </div>, document.getElementById("app"))
