@@ -73,7 +73,7 @@ function generateFreshMeme() {
     }
 }
 
-ReactDOM.render(<div style={{textAlign: "center", fontFamily: '"Comic Sans MS", "Comic Sans", cursive'}}>
+ReactDOM.render(<div style={{textAlign: "center", fontFamily: '"Comic Sans MS", "Comic Sans", serif'}}>
     {generateFreshMeme()}
     <hr />
     <p>Website by <a href="https://jakegealer.me">Jake Gealer</a>.</p>
