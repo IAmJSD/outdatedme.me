@@ -45,7 +45,22 @@ const memes = [
    <iframe width="560" height="315" src="https://www.youtube.com/embed/kHYZDveT46c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
 
    // Luigi's death stare
-   <img src="https://i.kym-cdn.com/entries/icons/original/000/015/713/luigi.JPG"></img>
+   <img src="https://i.kym-cdn.com/entries/icons/original/000/015/713/luigi.JPG"></img>,
+
+   // Harlem shake
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/8vJiSSAMNWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
+
+   // We like to party
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/b8HO6hba9ZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
+
+   // Thanos car
+   <img src="https://i.kym-cdn.com/entries/icons/original/000/027/072/thanos_car_2.jpg"></img>,
+
+   // Nope!
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/gvdf5n-zI14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
+
+   // Damn Daniel!
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/tvk89PQHDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
 ]
 
 // Ensures a fresh meme.
