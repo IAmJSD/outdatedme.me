@@ -61,6 +61,9 @@ const memes = [
 
    // Damn Daniel!
    <iframe width="560" height="315" src="https://www.youtube.com/embed/tvk89PQHDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
+
+   // Pepe the frog
+   <img src="https://i.kym-cdn.com/entries/icons/mobile/000/017/618/pepefroggie.jpg"></img>,
 ]
 
 // Ensures a fresh meme.
