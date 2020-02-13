@@ -2,6 +2,9 @@ import React from "react"
 import ReactDOM from "react-dom"
 
 const memes = [
+    // Chocolate rain
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EwTZ2xpQwpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
+
     // Nyan cat
     <iframe width="560" height="315" src="https://www.youtube.com/embed/QH2-TGUlwu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
     
