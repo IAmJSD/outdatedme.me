@@ -52,6 +52,9 @@ const memes = [
 
    // Luigi's death stare
    <img src="https://i.kym-cdn.com/entries/icons/original/000/015/713/luigi.JPG"></img>,
+   
+   // Arcadia Discord (sorry it's so long lmao) 
+   <img src="https://cdn.discordapp.com/icons/640751209682305055/3a30746a3a431ae36f396c2f4f34d1dd.jpg?size=512),%20url(https://cdn.discordapp.com/icons/640751209682305055/3a30746a3a431ae36f396c2f4f34d1dd.jpg"></img>,
 
    // Harlem shake
    <iframe width="560" height="315" src="https://www.youtube.com/embed/8vJiSSAMNWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>,
